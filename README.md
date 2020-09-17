@@ -16,3 +16,5 @@ If user enters + then, statements for case: '+' is executed and program is termi
 If user enters - then, statements for case: '-' is executed and program is terminated.
 
 This program works similarly for * and / operator. But, if the operator doesn't matches any of the four character [ +, -, * and / ], default statement is executed which displays error message.
+
+https://www.programiz.com/cpp-programming/examples/calculator-switch-case
